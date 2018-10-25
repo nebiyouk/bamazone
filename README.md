@@ -24,7 +24,7 @@
 
 <ul>
   <li> ? What would you like to do today? (Use arrow keys)</li>
-  <li> > 1) View Products for sale </li>
+  <li>    1) View Products for sale </li>
   <li>    2) View low inventory</li>
   <li>    3) Add to inventory </li>
   <li>    4) Add new product </li>
@@ -38,7 +38,7 @@
 <ul>
 <li> ? What would you like to do today? (Use arrow keys)</li>
 <li> ? What would you like to do today? (Use arrow keys)</li>
-<li> > 1) View Sales By Department</li>
+<li>    1) View Sales By Department</li>
 <li>    2) Create New Department</li>
 </ul>
 <h4>For Video Demo Click The Link Below</h4>
