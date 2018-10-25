@@ -4,10 +4,11 @@
 
 <h2>How It Works</h2>
 
-<h2>Bamazon Customer<h2>
+<h3>Bamazon Customer</h3>
+
 <p>This program consists of three seperate, but related apps. The first, BamazonCustomer.js, allows a "customer" to place an order from the Bamazon store. A check is then performed on the store inventory and the customer is either alerted that their order cannot be completed, or they are shown the total amount owed. Behind the scenes, the quantity ordered by the customer is deducted from the store quantity (which is stored in a SQL table). At the same time, the $ amount of the order is sent to seperate SQL table to allow the corportate executives to track earnings by department.</p>
 
-#To run the customer interface please follow the steps below:
+<h3>To run the customer interface please follow the steps below:</h3>
 <ol>
 <li>git clone git@ github.com/nebiyouk/bamazone.git</li>
 <li>cd bamazon</li>
@@ -40,6 +41,6 @@
 <li> > 1) View Sales By Department</li>
 <li>   2) Create New Department</li>
 </ul>
-<h1>If you want to watch video Demo Click The Link Below</h1>
+<h4>you can watch Live video Demo by Clicking The Link Below</h4>
 
-"https://drive.google.com/file/d/1cZJUIr4l9FyIMe36s-yFiZJxMmV86l42/view"
+https://drive.google.com/file/d/1cZJUIr4l9FyIMe36s-yFiZJxMmV86l42/view
