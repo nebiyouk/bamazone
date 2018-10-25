@@ -1,4 +1,4 @@
-#BAMAZON
+<h1>BAMAZON</h1>
 <h1>Description</h1>
 <p>This application implements a simple command line based storefront using the npm inquirer package and the MySQL database backend together with the npm mysql package. The application presents three interfaces: customer, manager and Executive.</p>
 
@@ -18,7 +18,7 @@
 <h2>Bamazon Manager</h2>
 <p>The second app, BamazonManager.js, allows a "manager" to view available items, view low inventory (less than five in stock), add to the inventory, or add a new product.<p>
 
-<h1>Manager Interace</h1>
+<h2>Manager Interace</h2>
 
 <h3>The manager interface presents a list of four options, as below.</h3>
 
@@ -36,7 +36,6 @@
 
 <h3>The Executive interface presents a list of two options, as below.</h3>
 <ul>
-<li> ? What would you like to do today? (Use arrow keys)</li>
 <li> ? What would you like to do today? (Use arrow keys)</li>
 <li>    1) View Sales By Department</li>
 <li>    2) Create New Department</li>
