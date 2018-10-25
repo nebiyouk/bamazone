@@ -25,9 +25,9 @@
 <ul>
   <li> ? What would you like to do today? (Use arrow keys)</li>
   <li> > 1) View Products for sale </li>
-  <li>   2) View low inventory</li>
-  <li>   3) Add to inventory </li>
-  <li>   4) Add new product </li>
+  <li>    2) View low inventory</li>
+  <li>    3) Add to inventory </li>
+  <li>    4) Add new product </li>
  </ul>
 
 <h2>Bamazon Executive</h2>
@@ -39,8 +39,8 @@
 <li> ? What would you like to do today? (Use arrow keys)</li>
 <li> ? What would you like to do today? (Use arrow keys)</li>
 <li> > 1) View Sales By Department</li>
-<li>   2) Create New Department</li>
+<li>    2) Create New Department</li>
 </ul>
-<h4>you can watch Live video Demo by Clicking The Link Below</h4>
+<h4>For Video Demo Click The Link Below</h4>
 
 https://drive.google.com/file/d/1cZJUIr4l9FyIMe36s-yFiZJxMmV86l42/view
