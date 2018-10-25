@@ -32,4 +32,4 @@
 
 If you want to watch video Demo Click The Link Below
 
-<iframe width="560" height="315"src="https://drive.google.com/file/d/1cZJUIr4l9FyIMe36s-yFiZJxMmV86l42/view" frameborder="0"allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1cZJUIr4l9FyIMe36s-yFiZJxMmV86l42/view"</iframe>
